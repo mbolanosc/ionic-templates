@@ -1,0 +1,2 @@
+# ionic-templates
+ionic
